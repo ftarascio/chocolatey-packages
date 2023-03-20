@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>office2019proplus</id>
-    <version>2019.1808</version>
+    <version>2019.16130.20218</version>
     <packageSourceUrl>https://github.com/ftarascio/chocolatey-packages</packageSourceUrl>
     <owners>Fabio Tarascio</owners>
     <title>Microsoft Office 2019 ProPlus</title>
